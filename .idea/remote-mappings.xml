@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://ypg@10.24.88.11:22/home/ypg/anaconda3/envs/radar-pytorch/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

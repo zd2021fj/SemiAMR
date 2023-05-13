@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="c807695e-a87b-4c62-a027-8f19032d650d" port="46126" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="08df6c4e-78f2-4c65-8a50-a4edd63a84b2" port="38286" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="www.669699.xyz" id="6d741012-4592-4276-afec-ff5dd47c9211" port="6885" nameFormat="DESCRIPTIVE" username="ypg" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
