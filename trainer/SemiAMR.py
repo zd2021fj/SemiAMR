@@ -37,7 +37,7 @@ class Trainer:
         loop_info = defaultdict(list)
         batch_idx, label_n, unlab_n = 0, 0, 0
         for (label, label_target, ldx), (unlabel, unlabel_target, udx) in zip(cycle(label_loader), unlab_loader):
-
+            self.global_step += 1
             label, label_target = label.to(self.device), label_target.to(self.device)
             unlabel, unlabel_target = unlabel.to(self.device), unlabel_target.to(self.device)
 
